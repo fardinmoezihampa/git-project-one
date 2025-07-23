@@ -1,0 +1,13 @@
+>>git init
+>>git config --global user.name  fardinmoezi
+>>git config --global user.email fardinm2000@gmail.com
+
+added to github
+>> git push https://github.com/fardinmoezihampa/git-project-one.git main
+
+after uploud to github use this cooand
+
+>> git remote rm origin
+>> git remote add origin https://github.com/fardinmoezihampa/git-project-one.git //اسم مستعار برای لینک
+>> git push origin main
+>> git push origin dev
